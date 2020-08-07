@@ -1,0 +1,12 @@
+﻿  main.cpp
+e:\computer graphics assignment\hw1\104062203_hw_1\assigment1\assigment1\main.cpp(162): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\computer graphics assignment\hw1\104062203_hw_1\assigment1\assigment1\main.cpp(163): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\computer graphics assignment\hw1\104062203_hw_1\assigment1\assigment1\main.cpp(165): warning C4018: '<': signed/unsigned 不相符
+e:\computer graphics assignment\hw1\104062203_hw_1\assigment1\assigment1\main.cpp(188): warning C4018: '<': signed/unsigned 不相符
+e:\computer graphics assignment\hw1\104062203_hw_1\assigment1\assigment1\main.cpp(191): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+e:\computer graphics assignment\hw1\104062203_hw_1\assigment1\assigment1\main.cpp(192): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+e:\computer graphics assignment\hw1\104062203_hw_1\assigment1\assigment1\main.cpp(193): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+e:\computer graphics assignment\hw1\104062203_hw_1\assigment1\assigment1\main.cpp(440): warning C4244: '=': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+e:\computer graphics assignment\hw1\104062203_hw_1\assigment1\assigment1\main.cpp(462): warning C4018: '<': signed/unsigned 不相符
+e:\computer graphics assignment\hw1\104062203_hw_1\assigment1\assigment1\main.cpp(509): warning C4018: '<': signed/unsigned 不相符
+  Assigment1.vcxproj -> E:\Computer Graphics Assignment\HW1\104062203_HW_1\Assigment1\Debug\Assigment1.exe
